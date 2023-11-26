@@ -1,6 +1,6 @@
 # My previous projects:
 
-## 1. Game called Fastasy land
+## 1. Game called Fantasy land
 
 ### Random code snippet from the front page of the project
 ```css
