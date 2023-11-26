@@ -1,6 +1,6 @@
-# My previous projects
+# My previous projects:
 
-## Game called Fastasy land
+## 1. Game called Fastasy land
 
 ### Random code snippet from the front page of the project
 ```css
@@ -23,7 +23,7 @@
 }
 ```
 
-## Notification panel for MnG 
+## 2. Notification panel for MnG 
 
 ### Random code snippet from the project
 ```css
